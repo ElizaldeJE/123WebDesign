@@ -96,3 +96,12 @@ header a:hover{
   padding-right: 20px;
   color: #353637;
 }
+
+/*Footer*/
+footer{
+  padding: 20px;
+  margin-top: 20px;
+  color: #ffffff;
+  background-color: #32a0c2;
+  text-align: center;
+}
